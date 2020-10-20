@@ -36,7 +36,7 @@ menuentry "OSX" {
 }
 ```
 
-Entries that are autodetected should also show the proper icons.
+Entries that are autodetected should also show the proper icons. Although icons might look different than that in the image as some of them are default icons, they should still be available in the default icon pack which came with rEFInd.
 Some entries have been modified to clean up miscellaneous boot options (such as "Boot Windows with Shell", grubx64.efi) which can simply be enabled back by changing it in theme.conf.
 
 ### Attribution
